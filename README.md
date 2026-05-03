@@ -121,7 +121,7 @@ llm-gateway/
 
 - [x] Basic `/chat` endpoint with Ollama
 - [x] Chat UI
-- [ ] Redis caching layer
+- [x] Redis caching layer
 - [ ] Rate limiting per user
 - [ ] API key authentication
 - [ ] PostgreSQL for usage tracking
